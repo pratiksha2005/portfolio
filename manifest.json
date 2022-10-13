@@ -1,0 +1,49 @@
+{
+    "name": "pratiksha portfolio",
+    "short_name":"PORTFOLIO",
+    "description":"pratiksha cha portfolio . having 0 year of experience as frontend developer",
+    "orientation":"portrait",
+    "start_url":"/portfolio",
+    "background_color":"#f00",
+    "theme_color":"#0ff",
+    "display":"standalone",
+    "icons":[
+        {
+            "src":"./images/SKILLHUB-48-48.png",
+            "type":"image/png",
+            "sizes":"48x48"
+
+        },
+        {
+            "src":"./images/SKILLHUB-72-72.png",
+            "type":"image/png",
+            "sizes":"72x72"
+
+        },
+        {
+            "src":"./images/SKILLHUB-96-96.png",
+            "type":"image/png",
+            "sizes":"96x96"
+
+        },
+        {
+            "src":"./images/SKILLHUB-144-144.png",
+            "type":"image/png",
+            "sizes":"144x144"
+
+        },
+        {
+            "src":"./images/SKILLHUB-192-192.png",
+            "type":"image/png",
+            "sizes":"192x192"
+
+        },
+        {
+            "src":"./images/SKILLHUB-512-512.png",
+            "type":"image/png",
+            "sizes":"512x512"
+
+        }
+
+    ]
+}
