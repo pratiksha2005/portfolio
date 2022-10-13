@@ -7,6 +7,33 @@
     "background_color":"#f00",
     "theme_color":"#0ff",
     "display":"standalone",
+    "shortcuts":[{
+        "name":"learn About Us",
+        "short_name":"About",
+        "description":"lorem ipsum",
+        "url":"./about.htm",
+        "icons":[
+            {
+                "src":"./images/SKILLHUB-192-192.png",
+                "type":"image/png",
+                "sizes":"192x192"
+            }
+        ]
+    },{
+        "name":"contact Us",
+        "short_name":"contact",
+        "description":"lorem ipsum",
+        "url":"./contact.htm",
+        "icons":[
+            {
+                "src":"./images/SKILLHUB-192-192.png",
+                "type":"image/png",
+                "sizes":"192x192"
+            }
+        ]
+    }
+
+    ],
     "icons":[
         {
             "src":"./images/SKILLHUB-48-48.png",
